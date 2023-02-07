@@ -1,6 +1,6 @@
 [
 	{
-		"id": 2,
+		"id": 1,
 		"title": "remera",
 		"description": "ropa",
 		"price": 252,
@@ -13,6 +13,30 @@
 		"category": "assas"
 	},
 	{
+		"id": 2,
+		"title": "pantalon",
+		"description": "grande",
+		"price": 53535,
+		"thumbnail": [
+			"hhfhfh"
+		],
+		"code": "sdsdsdaa",
+		"stock": 6,
+		"status": true,
+		"category": "ropa"
+	},{
+		"id": 3,
+		"title": "pantalon",
+		"description": "grande",
+		"price": 53535,
+		"thumbnail": [
+			"hhfhfh"
+		],
+		"code": "sdsdsdaa",
+		"stock": 6,
+		"status": true,
+		"category": "ropa"
+	},{
 		"id": 4,
 		"title": "pantalon",
 		"description": "grande",
