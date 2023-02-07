@@ -1,0 +1,28 @@
+[
+	{
+		"id": 2,
+		"title": "remera",
+		"description": "ropa",
+		"price": 252,
+		"thumbnail": [
+			"sasas"
+		],
+		"code": "5fdfss",
+		"stock": 4,
+		"status": true,
+		"category": "assas"
+	},
+	{
+		"id": 4,
+		"title": "pantalon",
+		"description": "grande",
+		"price": 53535,
+		"thumbnail": [
+			"hhfhfh"
+		],
+		"code": "sdsdsdaa",
+		"stock": 6,
+		"status": true,
+		"category": "ropa"
+	}
+]
